@@ -1,4 +1,5 @@
 # RPG Style Pixel-Art Level Generator
+<img width="883" alt="Screenshot 2024-08-19 at 9 13 38 AM" src="https://github.com/user-attachments/assets/a2c7b1ae-2a2d-43c2-a9f1-8f785b699f21">
 
 This Streamlit app generates unique, RPG-style pixel art images of game levels, villages, and cities using the Stability AI API. It features a random prompt generator for creating diverse and imaginative scenes.
 
